@@ -16,8 +16,8 @@
     </p>
 
 - ## Linked List
-    #### - [Singly Linked List](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Linked%20List/Singly_LinkedList.cpp)
-    #### - [Doubly Linked List](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Linked%20List/Doubly_LinkedList.cpp)
+    - [Singly Linked List](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Linked%20List/Singly_LinkedList.cpp)
+    - [Doubly Linked List](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Linked%20List/Doubly_LinkedList.cpp)
     <p align="center">
       <img src="https://www.codesdope.com/staticroot/images/ds/link18.gif" width="500">
     </p>
