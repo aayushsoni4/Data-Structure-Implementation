@@ -10,6 +10,7 @@
     ### - [Using array](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Queue_using_array.cpp)
     - [Linear Queue](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Queue_using_array.cpp)
     - [Circular Queue](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/CircularQueue_using_array.cpp)
+    - [Double - ended Queue](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Deque_using_array.cpp)
     <p align="center">
       <img src="https://images.ctfassets.net/n9ktizb80e1a/6FJgRmnaa4aPhL7vn8TGd4/9bd02c6c3d5337d42a7f933b5740006f/queue.gif" width="500">
     </p>
