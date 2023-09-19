@@ -14,3 +14,9 @@
     <p align="center">
       <img src="https://images.ctfassets.net/n9ktizb80e1a/6FJgRmnaa4aPhL7vn8TGd4/9bd02c6c3d5337d42a7f933b5740006f/queue.gif" width="500">
     </p>
+
+- ## Linked List
+    ### - [Using array](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Singly_LinkedList.cpp)
+    <p align="center">
+      <img src="https://www.codesdope.com/staticroot/images/ds/link18.gif" width="500">
+    </p>
