@@ -16,7 +16,7 @@
     </p>
 
 - ## Linked List
-    ### - [Using array](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Singly_LinkedList.cpp)
+    ### - [Singly Linked List](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Singly_LinkedList.cpp)
     <p align="center">
       <img src="https://www.codesdope.com/staticroot/images/ds/link18.gif" width="500">
     </p>
