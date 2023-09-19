@@ -12,25 +12,67 @@ public:
     }
 };
 
-int main (){
-    Node* node = new Node(1);
-    Node* temp = node;
+void InsertAtHead(Node* &head, int key){
 
-    temp->next = new Node(2);
-    temp = temp->next;
+    Node* temp = new Node(key);
+    temp->next = head;
+    head = temp;
 
-    temp->next = new Node(3);
-    temp = temp->next;
+}
 
-    temp->next = new Node(4);
-    temp = temp->next;
+void InsertAtTail(Node* &head, int key){
 
-    temp = node;
+    Node* temp = head;
+    while(temp->next!=NULL){
+        temp=temp->next;
+    }
+    temp->next = new Node(key);
+}
 
-    while(temp!=NULL){
-        cout << temp->data << " ";
+void InsertAtPosition(Node* &head, int key, int pos){
+
+    Node* temp = head;
+    int cnt = 1;
+
+    while (cnt < pos - 1 && temp != NULL) {
         temp = temp->next;
+        cnt += 1;
+    }
+
+    if (temp == NULL) {
+        InsertAtTail(head, key);
+        return;
+    }
+
+    Node* nodeToInsert = new Node(key);
+    nodeToInsert->next = temp->next;
+    temp->next = nodeToInsert;
+}
+
+void print(Node* head){
+    while(head!=NULL){
+        cout << head->data << " ";
+        head = head->next;
     }
     cout << endl;
-    
+}
+
+
+
+int main (){
+    Node* node = new Node(1);
+
+    InsertAtHead(node,2);
+    InsertAtHead(node,3);
+
+    print(node);
+
+    InsertAtTail(node,4);
+    InsertAtTail(node,5);
+
+    print(node);
+
+    InsertAtPosition(node,6,10);
+
+    print(node);
 }
