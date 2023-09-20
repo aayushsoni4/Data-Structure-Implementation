@@ -144,6 +144,7 @@ int main() {
     print(node);
 
     InsertAtPosition(node, 6, 10);
+    InsertAtPosition(node, 20, 100);
 
     print(node);
 
