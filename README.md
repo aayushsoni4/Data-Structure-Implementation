@@ -47,3 +47,9 @@
     <p align="center">
       <img src="https://www.tutorialspoint.com/data_structures_algorithms/images/max_heap_deletion_animation.gif" width="400">
     </p>
+
+- ## Trie
+    - [Trie](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Trie/Trie.cpp)
+    <p align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:679/1*Oy-1OaT5VJ9GFYSoRsIHYg.gif" width="400">
+    </p>
