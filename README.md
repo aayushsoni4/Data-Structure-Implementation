@@ -17,7 +17,20 @@
 
 - ## Linked List
     - [Singly Linked List](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Linked%20List/Singly_LinkedList.cpp)
-    - [Doubly Linked List](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Linked%20List/Doubly_LinkedList.cpp)
     <p align="center">
       <img src="https://www.codesdope.com/staticroot/images/ds/link18.gif" width="500">
+    </p>
+    - [Doubly Linked List](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Linked%20List/Doubly_LinkedList.cpp)
+    <p align="center">
+      <img src="https://cdn.procoding.org/datastructures/linkedlist/doubly-linked-list/doubly-linked-list-traverse.gif" width="500">
+    </p>
+
+- ## Heap
+    - [Max Heap](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Heap/MaxHeap.cpp)
+    <p align="center">
+      <img src="https://www.tutorialspoint.com/data_structures_algorithms/images/max_heap_deletion_animation.gif" width="500">
+    </p>
+    - [Min Heap](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Heap/MinHeap.cpp)
+    <p align="center">
+      <img src="https://2.bp.blogspot.com/-loJikRb35Ic/WtVRjldbrzI/AAAAAAAAEx8/NtvSQKrKY2s7Cr1ZWAMaoeObUzIOu8qowCLcBGAs/s1600/binary_heap_extraction.gif" width="500">
     </p>
