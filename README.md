@@ -26,6 +26,12 @@
       <img src="https://cdn.procoding.org/datastructures/linkedlist/doubly-linked-list/doubly-linked-list-traverse.gif" width="500">
     </p>
 
+- ## Tree
+    - [Binary Tree](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Tree/BinaryTree.cpp)
+    <p align="center">
+      <img src="https://i.stack.imgur.com/W7Iee.gif" alt="Inorder Traversal" width="500">
+    </p>
+
 - ## Heap
     - [Min Heap](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Heap/MinHeap.cpp)
     <p align="center">
