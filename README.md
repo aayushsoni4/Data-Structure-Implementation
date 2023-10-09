@@ -26,11 +26,11 @@
     </p>
 
 - ## Heap
-    - [Max Heap](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Heap/MaxHeap.cpp)
-    <p align="center">
-      <img src="https://www.tutorialspoint.com/data_structures_algorithms/images/max_heap_deletion_animation.gif" width="500">
-    </p>
     - [Min Heap](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Heap/MinHeap.cpp)
     <p align="center">
       <img src="https://2.bp.blogspot.com/-loJikRb35Ic/WtVRjldbrzI/AAAAAAAAEx8/NtvSQKrKY2s7Cr1ZWAMaoeObUzIOu8qowCLcBGAs/s1600/binary_heap_extraction.gif" width="500">
+    </p>
+    - [Max Heap](https://github.com/aayushsoni4/Data-Structure-Implementation/blob/main/Heap/MaxHeap.cpp)
+    <p align="center">
+      <img src="https://www.tutorialspoint.com/data_structures_algorithms/images/max_heap_deletion_animation.gif" width="500">
     </p>
